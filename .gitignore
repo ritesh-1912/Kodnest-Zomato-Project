@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+_pdf_figures/
+_pdf_figures_rendered/
+
+# Large local data (exceeds GitHub file size limits; regenerate DB with run_analysis.py)
+zomato.csv
+zomato.db
