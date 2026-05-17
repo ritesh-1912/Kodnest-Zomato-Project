@@ -38,5 +38,3 @@ python -m nbconvert --to notebook --execute zomato_analysis.ipynb --output execu
 
 - **View results quickly:** open the PNGs in the outputs folder or open report.html if you exported the notebook to HTML.
 - **Edit & iterate:** open [zomato_analysis.ipynb](zomato_analysis.ipynb) in VS Code, select the project `.venv` kernel, and Run All to see inline outputs.
-
-If you want, I can add a short slide deck summarizing the top 3 insights and embed these PNGs.
